@@ -1,6 +1,10 @@
 # RMIT-PROJECTS-ASSESSMENTS
 My final projects and assessments for RMIT CYBERSECURITY CERT IV
 
+Note: I am still waiting on results for some of my other classes. will update/upload when I get the results.
+
+SEMESTER 1:
+
 
 __Manage the security infrastructure for an organisation (2305):__
 
