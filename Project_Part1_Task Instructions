@@ -1,0 +1,367 @@
+Manage the security infrastructure for an organisation (2305)
+
+Task instructions 
+Summary and Purpose of Assessment
+
+The purpose of this assessment task is for you to complete a series of tasks that focus on managing and improving the security infrastructure of an organisation.
+
+ 
+
+This project task requires you to complete the following tasks:
+
+Read information on Star education (page 3) and their security policies, located in Appendix A of this document. This information will assist you in completing the assessment.
+You will need to answer each project task on a separate document and submit this assessment for marking.
+Your responses will be assessed as per the marking criteria outlined in Section B of this document.
+ 
+
+Assessment Instructions
+
+Read and complete all seven (7) sections of the project.
+This assessment task requires you to address Star education’s newly implemented security policies (located in Appendix A) and provide extensive research in order to incorporate best practice standards for the organisations security systems, as well as to support the planning and development of the security policies.
+You may use class resources and the internet to assist you in completing this assessment task.
+You will need to complete your task using a separate document, making sure to include your name and student ID.
+Seek assistance from your teacher if you need clarification with any of the questions. Your teacher will go through this assessment during class time to answer any questions.
+Student will be observed undertaking this assessment task by a qualified
+Complete all sections as directed below before handing in your assessment for marking.
+What
+
+You need to complete all the tasks of Part 1 in this assessment.
+
+Please refer Section B /Rubric for specific details.
+
+Project_VU21995_Task1_Student_220802.docxDownload Project_VU21995_Task1_Student_220802.docx
+
+Download the above file to complete all Part 1 tasks. Make sure to rename your file as instructed.  Upon completion, upload the completed file on canvas and submit.
+
+Please note, all the tasks appearing below are repeated in the above file.
+
+  
+
+Star education
+
+Star education are a TAFE provider located in Melbourne. They host an array of courses and are home to approximately 900 students – both local and international.
+
+Recently, Star education have decided to review their cyber security practices to ensure they are equipped to manage any cyber threats that may come their way.
+
+The Director is currently in a phase of revising many of the TAFE’s policies and has a keen interest to ensure the safety of the TAFE’s students and staff – on all levels.
+
+Many staff members have worked at Star for a long time and therefore, may resist the implementation of new policies. This is something to always think about – managing change.
+
+Security training for staff is often seldom complete and students receive basic security training during their first weak at the TAFE.
+
+In addition, the organisation does invest in some security tools, although these are at a basic level that are not always best suited to the growing size of the TAFE.
+
+The organisational structure includes:
+
+ 
+
+Academic operations
+
+Curriculum and teaching
+
+Student engagement and partnerships
+
+Corporate services
+
+Strategy, performance and governance
+
+VET
+Short courses
+International academic operations
+Curriculum unit
+Professional teaching practice
+Learning environments
+Future students
+International partnerships
+Finance
+Human resources
+Marketing
+Legal services
+IT
+Strategy and planning
+Risk and compliance
+Governance
+Education quality and accreditation
+ 
+
+You will find Star education’s cyber security-related policies – data breach, remote access and email usage policies located in Appendix A of this document.
+
+These policies are new and have been implemented as part of the TAFE’s overall cyber security strategy.
+
+Task details
+
+After reviewing Star education’s information (above) and their three (3) policies located in Appendix A of this document, complete the following project tasks listed below. You will need to complete your answers in a separate document, making sure to include your name and student ID.
+
+ 
+
+Project Part 1
+
+Section 1: Information and security policies
+
+Review each of Star education’s policies and note down at least three (3) implications of implementing these policies. Think about the effects on the students, staff and the organisation itself.
+Outline the likely team members who would be involved in reviewing these policies before they are implemented.
+Suggest three (3) work habits that may impact on the successful implementation of the three (3) policies. For example, the staff members have been employed for a long time and therefore may be hesitant to update their passwords often. Provide a brief explanation as to why each work habit may impact on the policy implementation.
+Evaluate Star education’s configuration within the organisation and outline the implications with regards to implementing cyber security policies. You will need to evaluate the organisation’s configuration against change management principles. This will include evaluating the following organisational information and reviewing how each of these areas are affected by change management:
+Job roles
+Student profiles
+Management teams
+Current systems that relate to cyber security
+ 
+
+Section 2: Risk assessment 
+
+Conduct an audit of Star education’s current security tools and infrastructure. Provide at least one (1) example of the following types of tools:
+Packet sniffers and password auditing tools
+Penetration testing tools
+Web vulnerability scanning tools
+Encryption tools
+Security hardware
+Network security monitoring tools
+Physical infrastructure tools (e.g. swipe cards, cameras etc.)
+ 
+
+B. Outline Star education’s baseline for their security infrastructure. Think about the most essential components of the organisation that is their ‘heart and soul’ of security (i.e. key security elements). For example, there may be four (4) servers that provide/store/host the organisation’s most important data, thus these servers are the baseline that need to be secure as they can be.
+
+C. Conduct a risk assessment on the organisation’s systems and human operations. For this question, you will need to provide an extensive assessment that includes any part of risk to the company’s cyber security practices. You may present this information in a table format. When assessing the risks for human operations, ensure you provide details on the types of systems that are affected by human operations, e.g. students interact with emails and local server drives.
+
+To assist your risk assessment, you will need to cover (at a minimum) the following:
+
+Identify company assets– these could be proprietary information, hardware, software, client information, network topology, etc. List at least six (6).
+Identify key stakeholders who will be able to assist you in gathering risk assessment data - It’s best to collaborate with other departments to determine other valuable company assets and which ones to prioritise. For this part, list the employees/departments who you will need to collaborate with in order to gather risk assessment data. For each employee/department, outline the type of information they will be able to provide you with.
+List the types of threats– detail at least five (5) threats. Think about the specific threats that can affect your organisation and its assets. As an example, some main sources of threats include:
+Natural disasters
+Human error / malicious intent
+System failure
+Lack of resources
+Cyber attacks
+Likelihood of incidents– assess all of your assets’ vulnerability to threats and the likelihood of an incident happening. For this section, you may use a rating system such as; 1 = low risk, 2 = medium risk, 3 = high risk; or a traffic light system – red, green and yellow.
+List the repercussions– One or a combination of the following can happen if company assets get impacted by threats: legal action, data loss, production downtime, fines and penalties, negative impact on company reputation, etc. List at least one (1) repercussion for each asset.
+Determine controls– Determine what controls are required to mitigate the threats you listed. New controls may need to be implemented or old ones updated to adapt to new and changing threats. You will need to consider the resources required for each threat/risk that will minimise business operations in case of a system outage, etc. Also think about cloud platforms, data storage practices, email systems, infrastructure, employee training, and third-party security policies that will support your controls.
+ 
+
+Section 3: Security vulnerabilities 
+
+Outline the security infrastructure vulnerabilities of the organisation. For example, vulnerabilities are weaknesses in security that can expose assets to threats, e.g. untrained staff and students etc.
+Provide a summary email which outlines these security vulnerabilities, addressing the email to the appropriate areas/management of the organisation.
+ 
+
+-------------------------END OF Part 1 TASKS---------------------
+
+ 
+
+Where
+
+This assessment will take place in class and/or outside of class time, as per your Teacher’s instructions.
+
+ 
+
+How
+
+This project will be carried out in two parts. Part 1 comprises of sections 1,2,3. Part 2 comprises of sections 4,5,6,7. Students will be assessed against the criteria listed in the marking guide of this task. Project observation will be carried out during scheduled observation week. To achieve a satisfactory result, students will need to address all criteria satisfactorily.
+
+ 
+
+ 
+
+ 
+
+APPENDIX A – STAR EDUCATION POLICIES
+
+ 
+
+ 
+
+Data breach policy
+
+1.0 Purpose
+
+The purpose of the policy is to establish the goals and the vision for the breach response process. This policy will clearly define to whom it applies and under what circumstances, and it will include the definition of a breach, staff roles and responsibilities, standards and metrics (e.g., to enable prioritization of the incidents), as well as reporting, remediation, and feedback mechanisms. The policy shall be well publicized and made easily available to all personnel whose duties involve data privacy and security protection.
+
+Star education Information Security's intentions for publishing a Data Breach Response Policy are to focus significant attention on data security and data security breaches and how Star education’s established culture of openness, trust and integrity should respond to such activity. Star education Information Security is committed to protecting Star education's employees, partners and the company from illegal or damaging actions by individuals, either knowingly or unknowingly.         
+
+Background
+This policy mandates that any individual who suspects that a theft, breach or exposure of Star education Protected data or Star education Sensitive data has occurred must immediately provide a description of what occurred via e-mail to Helpdesk@Stareducation.org, by calling 555-1212, or through the use of the help desk reporting web page at http://Star education. This e-mail address, phone number, and web page are monitored by the Star education’s Information Security Administrator. This team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.          
+
+2.0 Scope
+
+This policy applies to all whom collect, access, maintain, distribute, process, protect, store, use, transmit, dispose of, or otherwise handle personally identifiable information or Protected Health Information (PHI) of Star education members. Any agreements with vendors will contain language similar that protects the fund.             
+
+3.0 Policy Confirmed theft, data breach or exposure of Star education Protected data or Star education Sensitive data
+
+As soon as a theft, data breach or exposure containing Star education Protected data or Star education Sensitive data is identified, the process of removing all access to that resource will begin.
+
+The Executive Director will chair an incident response team to handle the breach or exposure.
+
+The team will include members from:
+
+IT Infrastructure
+IT Applications
+Finance (if applicable)
+Legal
+Communications
+Member Services (if Member data is affected)
+Human Resources
+The affected unit or department that uses the involved system or output or whose data may have been breached or exposed
+Additional departments based on the data type involved, Additional individuals as deemed necessary by the Executive Director
+Confirmed theft, breach or exposure of Star education data
+
+The Executive Director will be notified of the theft, breach or exposure. IT, along with the designated forensic team, will analyse the breach or exposure to determine the root cause.
+
+Work with Forensic Investigators
+
+As provided by Star education cyber insurance, the insurer will need to provide access to forensic investigators and experts that will determine how the breach or exposure occurred; the types of data involved; the number of internal/external individuals and/or organizations impacted; and analyse the breach or exposure to determine the root cause. 
+
+Develop a communication plan
+
+Work with Star education communications, legal and human resource departments to decide how to communicate the breach to: a) internal employees, b) the public, and c) those directly affected 
+
+3.2 Ownership and Responsibilities
+
+Roles & Responsibilities:
+
+Sponsors - Sponsors are those members of the Star education community that have primary responsibility for maintaining any particular information resource. Sponsors may be designated by any Star education Executive in connection with their administrative responsibilities, or by the actual sponsorship, collection, development, or storage of information.
+Information Security Administrator is that member of the Star education community, designated by the Executive Director or the Director, Information Technology (IT) Infrastructure, who provides administrative support for the implementation, oversight and coordination of security procedures and systems with respect to specific information resources in consultation with the relevant Sponsors.
+Users include virtually all members of the Star education community to the extent they have authorized access to information resources, and may include staff, trustees, contractors, consultants, interns, temporary employees and volunteers.
+The Incident Response Team shall be chaired by Executive Management and shall include, but will not be limited to, the following departments or their representatives: IT-Infrastructure, IT-Application Security; Communications; Legal; Management; Financial Services, Member Services; Human Resources.
+4.0 Enforcement
+
+Any Star education personnel found in violation of this policy may be subject to disciplinary action, up to and including termination of employment. Any third party partner company found in violation may have their network connection terminated.            
+
+5.0 Definitions
+
+Encryption or encrypted data – The most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it. Unencrypted data is called plain text;
+
+Plain text – Unencrypted data.
+
+Hacker – A slang term for a computer enthusiast, i.e., a person who enjoys learning programming languages and computer systems and can often be considered an expert on the subject(s).
+
+Protected Health Information (PHI) - Under US law is any information about health status, provision of health care, or payment for health care that is created or collected by a "Covered Entity" (or a Business Associate of a Covered Entity) and can be linked to a specific individual.
+
+Personally Identifiable Information (PII) - Any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered
+
+Protected data - See PII and PHI
+
+Information Resource - The data and information assets of an organization, department or unit.
+
+Safeguards - Countermeasures, controls put in place to avoid, detect, counteract, or minimize security risks to physical property, information, computer systems, or other assets. Safeguards help to reduce the risk of damage or loss by stopping, deterring, or slowing down an attack against an asset.
+
+Sensitive data - Data that is encrypted or in plain text and contains PII or PHI data.  See PII and PHI above.
+
+ 
+
+ 
+
+ 
+
+Remote access policy
+
+1.       Overview
+Remote access to our corporate network is essential to maintain our Team’s productivity, but in many cases this remote access originates from networks that may already be compromised or are at a significantly lower security posture than our corporate network. 
+
+2.       Purpose
+The purpose of this policy is to define rules and requirements for connecting to Star education's network from any host. These rules and requirements are designed to minimize the potential exposure to Star education from damages which may result from unauthorized use of Star education resources. Damages include the loss of sensitive or company confidential data, intellectual property, damage to public image, damage to critical Star education internal systems, and fines or other financial liabilities incurred as a result of those losses.
+
+3.       Scope
+This policy applies to all Star education employees, contractors, vendors and agents with a Star education-owned or personally-owned computer or workstation used to connect to the Star education network. This policy applies to remote access connections used to do work on behalf of Star education, including reading or sending email and viewing intranet web resources.  This policy covers any and all technical implementations of remote access used to connect to Star education networks.
+
+4.       Policy
+It is the responsibility of Star education employees, contractors, vendors and agents with remote access privileges to Star education's corporate network to ensure that their remote access connection is given the same consideration as the user's on-site connection to Star education.
+
+General access to the Internet for recreational use through the Star education network is strictly limited to Star education employees, contractors, vendors and agents (hereafter referred to as “Authorized Users”).  When accessing the Star education network from a personal computer, Authorized Users are responsible for preventing access to any Star education computer resources or data by non-Authorized Users.  Performance of illegal activities through the Star education network by any user (Authorized or otherwise) is prohibited.  The Authorized User bears responsibility for and consequences of misuse of the Authorized User’s access.  For further information and definitions, see the Acceptable Use Policy.
+
+Authorized Users will not use Star education networks to access the Internet for outside business interests.
+
+For additional information regarding Star education's remote access connection options, including how to obtain a remote access login, free anti-virus software, troubleshooting, etc., go to the Remote Access Services website (company URL).       
+
+4.1 Requirements
+
+4.1.1  Secure remote access must be strictly controlled with encryption (i.e., Virtual Private Networks (VPNs)) and strong pass-phrases. For further information see the Acceptable Encryption Policy and the Password Policy.
+
+4.1.2  Authorized Users shall protect their login and password, even from family members.
+
+4.1.3  While using a Star education-owned computer to remotely connect to Star education's corporate network, Authorized Users shall ensure the remote host is not connected to any other network at the same time, with the exception of personal networks that are under their complete control or under the complete control of an Authorized User or Third Party.
+
+4.1.4  Use of external resources to conduct Star education business must be approved in advance by InfoSec and the appropriate business unit manager.
+
+4.1.5  All hosts that are connected to Star education internal networks via remote access technologies must use the most up-to-date anti-virus software (place URL to corporate software site here), this includes personal computers. Third party connections must comply with requirements as stated in the Third Party Agreement.
+
+4.1.6  Personal equipment used to connect to Star education's networks must meet the requirements of Star education-owned equipment for remote access as stated in the Hardware and Software Configuration Standards for Remote Access to Star education Networks.
+
+5.       Policy Compliance
+Compliance Measurement
+The Infosec Team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and inspection, and will provide feedback to the policy owner and appropriate business unit manager.
+
+Exceptions
+Any exception to the policy must be approved by Remote Access Services and the Infosec Team in advance.
+
+ Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+
+5.0   Related Standards, Policies and Processes
+Please review the following policies for details of protecting information when accessing the corporate network via remote access methods, and acceptable use of Star education’s network:
+
+Acceptable Encryption Policy
+Acceptable Use Policy
+Password Policy
+Third Party Agreement
+Hardware and Software Configuration Standards for Remote Access to Star education Networks
+ 
+
+ 
+
+ 
+
+Email policy
+
+Section A - Overview
+Electronic email is pervasively used in almost all industry verticals and is often the primary communication and awareness method within an organization. At the same time, misuse of email can post many legal, privacy and security risks, thus it’s important for users to understand the appropriate use of electronic communications.
+
+Section B - Purpose
+The purpose of this email policy is to ensure the proper use of Star education email system and make users aware of what Star education deems as acceptable and unacceptable use of its email system. This policy outlines the minimum requirements for use of email within Star education Network.
+
+Section C - Scope
+This policy covers appropriate use of any email sent from a Star education email address and applies to all employees, vendors, and agents operating on behalf of Star education.
+
+Section D - Policy
+All use of email must be consistent with Star education policies and procedures of ethical conduct, safety, compliance with applicable laws and proper business practices. 
+Star education email account should be used primarily for Star education business-related purposes; personal communication is permitted on a limited basis, but non-Star education related commercial uses are prohibited.
+All Star education data contained within an email message or an attachment must be secured according to the Data Protection Standard.
+Email should be retained only if it qualifies as a Star education business record. Email is a Star education business record if there exists a legitimate and ongoing business reason to preserve the information contained in the email.
+Email that is identified as a Star education business record shall be retained according to Star education Record Retention Schedule.
+The Star education email system shall not to be used for the creation or distribution of any disruptive or offensive messages, including offensive comments about race, gender, hair colour, disabilities, age, sexual orientation, pornography, religious beliefs and practice, political beliefs, or national origin. Employees who receive any emails with this content from any Star education employee should report the matter to their supervisor immediately.
+Users are prohibited from automatically forwarding Star education email to a third party email system (noted in 4.8 below). Individual messages which are forwarded by the user must not contain Star education confidential or above information.
+Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, and MSN Hotmail etc. to conduct Star education business, to create or memorialize any binding transactions, or to store or retain email on behalf of Star education.  Such communications and transactions should be conducted through proper channels using Star education-approved documentation. 
+Using a reasonable amount of Star education resources for personal emails is acceptable, but non-work related email shall be saved in a separate folder from work related email. Sending chain letters or joke emails from a Star education email account is prohibited. 
+Star education employees shall have no expectation of privacy in anything they store, send or receive on the company’s email system.
+Star education may monitor messages without prior notice. Star education is not obliged to monitor email messages.
+Section E - Policy Compliance
+Compliance Measurement
+The Infosec team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
+
+Exceptions
+Any exception to the policy must be approved by the Infosec team in advance.
+
+Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+
+6.0   Related Standards, Policies and Processes
+Data Protection Standard
+ 
+
+Conditions for assessment
+This is an individual assessment task. Student will be assessed individually against all assessment criteria.
+Student can make arrangements with the assessor at least one week prior to the assessment due date if they require special allowance or allowable adjustment to this task.
+Students found in breach of assessment conditions can be charged with academic misconduct, have their results cancelled, be excluded from the program and receive other penalties. Penalties can also apply if a student’s test material is copied by others.
+Plagiarism is the presentation of the work, idea or creation of another person as though it is one’s own. It is a form of cheating and is a very serious academic offence that may lead to expulsion from the University. Plagiarised material can be drawn from, and presented in, written, graphic and visual form, including electronic data, and oral presentations. Plagiarism occurs when the origin of the material used is not appropriately cited.
+RMIT special consideration is to enable students to maintain students’ academic progress despite adverse circumstances. The process for special consideration can be found at http://www.rmit.edu.au/students/specialconsiderationLinks to an external site.
+Students with a disability or long-term medical or mental health condition can apply for adjustments to their study and assessment conditions (Reasonable Adjustments and Equitable Assessment Arrangements) by registering with the Equitable Learning Services (ELS) at https://www.rmit.edu.au/students/support-and-facilities/student-support/equitable-learning-servicesLinks to an external site.
+If students already registered with ELS and students’ study plan is approved, please inform your teacher if this assessment task is not adjusted in line with approved study plan.
+Please ensure students full and correct name is written on the student version of this assessment task (do not use nicknames or abbreviations).
+Student can appeal the assessment decision according to the RMIT Assessment Appeal ProcessesLinks to an external site.
+You will have the opportunity to resubmit any tools that are deemed unsatisfactory (one resubmission allowed per unit, so that means you have two opportunities to submit)
+You will be assessed against the criteria as listed in the rubric/observation checklist.
+To achieve a satisfactory result you will need to address all criteria satisfactorily.
+Useful resources:
+http://www.vector-consulting.com.au/media/1080/securing-australias-education-institutions.pdfLinks to an external site.
+https://www.protectivesecurity.gov.au/governance/security-planning-risk-management/Pages/default.aspx#c.2.4Links to an external site.
+https://www.nist.gov/cyberframework/risk-management-framework
