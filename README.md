@@ -16,3 +16,12 @@ https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/cf7549c279278
 
 Grade:
 ![image](https://user-images.githubusercontent.com/91113466/232361406-81e5e0ae-2c1a-4c9b-a2db-97d43e32907e.png)
+
+
+__Utilise basic network concepts and protocols required in cyber security(2305):__
+
+Product Assessment
+
+My submission:
+
+https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/fd92c03b537966c492a7b9916cfa357a12e4907f/S4020067NicoleKemp%20_Project.zip.zip
