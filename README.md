@@ -13,3 +13,6 @@ https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/cf7549c279278
 My submission:
 
 https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/cf7549c279278cec2fc923c80cc6e4f419ea27aa/s4020067_Nicole_Taylor_Kemp_Project%20Part1.docx.docx
+
+Grade:
+![image](https://user-images.githubusercontent.com/91113466/232361406-81e5e0ae-2c1a-4c9b-a2db-97d43e32907e.png)
