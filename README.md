@@ -19,6 +19,7 @@ My submission:
 https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/cf7549c279278cec2fc923c80cc6e4f419ea27aa/s4020067_Nicole_Taylor_Kemp_Project%20Part1.docx.docx
 
 Grade: A+
+
 ![image](https://user-images.githubusercontent.com/91113466/232361406-81e5e0ae-2c1a-4c9b-a2db-97d43e32907e.png)
 
 Short Answer Questions:
@@ -41,7 +42,7 @@ My submission:
 
 https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/fd92c03b537966c492a7b9916cfa357a12e4907f/S4020067NicoleKemp%20_Project.zip.zip
 
-Grade A
+Grade A+
 
 ![image](https://user-images.githubusercontent.com/91113466/232374879-154f0294-a303-4eb5-897d-8e4c9b4e80f7.png)
 
