@@ -21,6 +21,15 @@ https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/cf7549c279278
 Grade: A+
 ![image](https://user-images.githubusercontent.com/91113466/232361406-81e5e0ae-2c1a-4c9b-a2db-97d43e32907e.png)
 
+Short Answer Questions:
+
+My submission:
+
+https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/0c702df1b11558e15aa2c0b0c2adce538b93b017/s4020067NicoleTaylorKemp%20_SAQ.docx.docx
+
+Grade: A+
+
+![image](https://user-images.githubusercontent.com/91113466/233878793-7d7009eb-04a8-48f2-831b-50ee47e1945e.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,3 +44,5 @@ https://github.com/Angry-Pomeranian/RMIT-PROJECTS-ASSESSMENTS/blob/fd92c03b53796
 Grade A
 
 ![image](https://user-images.githubusercontent.com/91113466/232374879-154f0294-a303-4eb5-897d-8e4c9b4e80f7.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
